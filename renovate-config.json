@@ -8,6 +8,8 @@
     "dependencies"
   ],
   "automerge": true,
+  "automergeType": "pr",
+  "platformAutomerge": true,
   "github-actions": {
     "enabled": true
   },
