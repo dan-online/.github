@@ -7,6 +7,9 @@
   "labels": [
     "dependencies"
   ],
+  "schedule": [
+    "before 12pm on Sunday"
+  ],
   "automerge": true,
   "automergeType": "pr",
   "platformAutomerge": true,
