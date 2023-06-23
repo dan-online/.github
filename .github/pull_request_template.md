@@ -1,26 +1,29 @@
+# Description
+
 <!-- 
-Thanks for creating this pull request 🤗
-
-Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
+Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 -->
 
-<!-- If this pull request closes an issue, please mention the issue number below -->
-Closes # <!-- Issue # here -->
+<!-- Closes #(issue) -->
 
-## 📑 Description
-<!-- Add a brief description of the pr -->
+## Type of change
 
-<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
+Please delete options that are not relevant.
+
+- [ ] Bug (non-breaking change which fixes an issue)
+- [ ] Feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation (addition or change to documentation)
+
+<!-- 
+Before you submit, consider this checklist:
+
+- My code follows the style guidelines of this project
+- I have performed a self-review of my code
+- I have commented my code, particularly in hard-to-understand areas
+- I have made corresponding changes to the documentation
+- My changes generate no new warnings
+- I have added tests that prove my fix is effective or that my feature works
+- New and existing unit tests pass locally with my changes
+- Any dependent changes have been merged and published in downstream modules
 -->
-
-## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
-- [ ] My pull request adheres to the code style of this project
-- [ ] My code requires changes to the documentation
-- [ ] I have updated the documentation as required
-- [ ] All the tests have passed
-
-## ℹ Additional Information
-<!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
