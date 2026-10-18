@@ -10,6 +10,7 @@
   "schedule": [
     "before 12pm on Sunday"
   ],
+  "updateNotScheduled": false,
   "automerge": true,
   "automergeType": "pr",
   "platformAutomerge": true,
